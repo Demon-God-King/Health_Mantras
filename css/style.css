@@ -238,11 +238,12 @@ ul, ol {
 }
 .logo a {
 	display: inline-block;
-	padding: 24px 0 29px;
+	padding: 10px 0 19px;
 }
 .nav-menu {
 	float: right;
-	padding-top: 50px;
+	padding-top: 80px;
+padding-bottom: 5px;
 }
 .nav-menu .mainmenu {
 	display: inline-block;
